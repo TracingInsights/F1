@@ -12,44 +12,44 @@ WIL,Williams,2022,#4363d8,Williams
 
 RBR,Red Bull Racing,2021,#ffe119,Red Bull
 MER,Mercedes,2021,#00c0bf,Mercedes
-FER,Ferrari,2021,#e6194b
-APN,Alpine,2021,#f032e6
-MCL,McLaren,2021,#f58231
-ARR,Alfa Romeo Racing,2021,#800000
-AMR,Aston Martin,2021,#3cb44b
-HAA,Haas F1 Team,2022,#ffffff
-APT,AlphaTauri,2021,#dcbeff
-WIL,Williams,2021,#4363d8
+FER,Ferrari,2021,#e6194b,
+APN,Alpine,2021,#f032e6,
+MCL,McLaren,2021,#f58231,
+ARR,Alfa Romeo Racing,2021,#800000,
+AMR,Aston Martin,2021,#3cb44b,
+HAA,Haas F1 Team,2022,#ffffff,
+APT,AlphaTauri,2021,#dcbeff,
+WIL,Williams,2021,#4363d8,
 
-RBR,Red Bull Racing,2020,#000099
-REN,Renault,2020,#ffe119
-RP,Racing Point,2020,#f032e6
-MER,Mercedes,2020,#00c0bf
-FER,Ferrari,2020,#e6194b
-MCL,McLaren,2020,#f58231
-ARR,Alfa Romeo Racing,2020,#800000
-HAA,Haas F1 Team,2022,#ffffff
-APT,AlphaTauri,2020,#dcbeff
-WIL,Williams,2020,#4363d8
+RBR,Red Bull Racing,2020,#000099,
+REN,Renault,2020,#ffe119,
+RP,Racing Point,2020,#f032e6,
+MER,Mercedes,2020,#00c0bf,
+FER,Ferrari,2020,#e6194b,
+MCL,McLaren,2020,#f58231,
+ARR,Alfa Romeo Racing,2020,#800000,
+HAA,Haas F1 Team,2022,#ffffff,
+APT,AlphaTauri,2020,#dcbeff,
+WIL,Williams,2020,#4363d8,
 
-RBR,Red Bull Racing,2019,#000099
-REN,Renault,2019,#ffe119
-RP,Racing Point,2019,#f032e6
-TR,Toro Rosso,2019,#dcbeff
-MER,Mercedes,2019,#00c0bf
-FER,Ferrari,2019,#e6194b
-MCL,McLaren,2019,#f58231
-ARR,Alfa Romeo Racing,2019,#800000
-HAA,Haas F1 Team,2022,#ffffff
-WIL,Williams,2019,#4363d8
+RBR,Red Bull Racing,2019,#000099,
+REN,Renault,2019,#ffe119,
+RP,Racing Point,2019,#f032e6,
+TR,Toro Rosso,2019,#dcbeff,
+MER,Mercedes,2019,#00c0bf,
+FER,Ferrari,2019,#e6194b,
+MCL,McLaren,2019,#f58231,
+ARR,Alfa Romeo Racing,2019,#800000,
+HAA,Haas F1 Team,2022,#ffffff,
+WIL,Williams,2019,#4363d8,
 
-RBR,Red Bull Racing,2018,#000099
-REN,Renault,2018,#ffe119
-TR,Toro Rosso,2018,
-FI,Force India,2018,#f032e6
-SB,Sauber,2018,#800000
-MER,Mercedes,2019,#00c0bf
-FER,Ferrari,2019,#e6194b
-MCL,McLaren,2019,#f58231
-HAA,Haas F1 Team,2022,#ffffff
-WIL,Williams,2019,#4363d8
+RBR,Red Bull Racing,2018,#000099,
+REN,Renault,2018,#ffe119,
+TR,Toro Rosso,2018,#dcbeff,
+FI,Force India,2018,#f032e6,
+SB,Sauber,2018,#800000,
+MER,Mercedes,2019,#00c0bf,
+FER,Ferrari,2019,#e6194b,
+MCL,McLaren,2019,#f58231,
+HAA,Haas F1 Team,2022,#ffffff,
+WIL,Williams,2019,#4363d8,
