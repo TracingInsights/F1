@@ -1,4 +1,15 @@
 code,Team,year,color,name
+RBR,Red Bull Racing,2023,#ffe119,Red Bull
+MER,Mercedes,2023,#00c0bf,Mercedes
+FER,Ferrari,2023,#e6194b,Ferrari
+APN,Alpine,2023,#f032e6,Alpine
+MCL,McLaren,2023,#f58231,McLaren
+ARR,Alfa Romeo,2023,#800000,Alfa Romeo
+AMR,Aston Martin,2023,#3cb44b,Aston Martin
+HAA,Haas F1 Team,2023,#ffffff,Haas
+APT,AlphaTauri,2023,#dcbeff,AlphaTauri
+WIL,Williams,2023,#4363d8,Williams
+
 RBR,Red Bull Racing,2022,#ffe119,Red Bull
 MER,Mercedes,2022,#00c0bf,Mercedes
 FER,Ferrari,2022,#e6194b,Ferrari
