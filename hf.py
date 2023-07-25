@@ -1,12 +1,12 @@
 import requests
         
-url = 'https://huggingface.co/spaces/tracinginsights/api' # Replace with the URL of the website you want to ping
-url1 = 'https://huggingface.co/spaces/tracinginsights/2018'
-url2 = 'https://huggingface.co/spaces/tracinginsights/2019'
-url3 = 'https://huggingface.co/spaces/tracinginsights/2020'
-url4 = 'https://huggingface.co/spaces/tracinginsights/2021'
-url5 = 'https://huggingface.co/spaces/tracinginsights/2022'
-url6 = 'https://huggingface.co/spaces/tracinginsights/2023'
+url = 'https://huggingface.co/spaces/tracinginsights/api/wdc' # Replace with the URL of the website you want to ping
+url1 = 'https://huggingface.co/spaces/tracinginsights/2018/wdc'
+url2 = 'https://huggingface.co/spaces/tracinginsights/2019/wdc'
+url3 = 'https://huggingface.co/spaces/tracinginsights/2020/wdc'
+url4 = 'https://huggingface.co/spaces/tracinginsights/2021/wdc'
+url5 = 'https://huggingface.co/spaces/tracinginsights/2022/wdc'
+url6 = 'https://huggingface.co/spaces/tracinginsights/2023/wdc'
 
 response = requests.get(url)
 response1 = requests.get(url1)
