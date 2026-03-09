@@ -1,4 +1,17 @@
 code,Team,year,color,name
+RBR,Red Bull Racing,2026,#ffe119,Red Bull
+MER,Mercedes,2026,#00c0bf,Mercedes
+FER,Ferrari,2026,#e6194b,Ferrari
+APN,Alpine,2026,#f032e6,Alpine
+MCL,McLaren,2026,#f58231,McLaren
+AUD,Audi,2026,#9a9a9a,Audi
+AMR,Aston Martin,2026,#3cb44b,Aston Martin
+HAA,Haas F1 Team,2026,#ffffff,Haas
+RB,Racing Bulls,2026,#dcbeff,Racing Bulls
+WIL,Williams,2026,#4363d8,Williams
+CAD,Cadillac,2026,#C5A253,Cadillac
+
+
 RBR,Red Bull Racing,2025,#ffe119,Red Bull
 MER,Mercedes,2025,#00c0bf,Mercedes
 FER,Ferrari,2025,#e6194b,Ferrari
